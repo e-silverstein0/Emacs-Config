@@ -1,1 +1,1 @@
-Based on System Crafter's emaca from scratch series
+* Based on System Crafter's emacs from scratch series
