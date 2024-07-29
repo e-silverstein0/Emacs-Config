@@ -1,1 +1,1 @@
-* This config I made without a guide and I made the main idea to make it more minimal than the main branch i made
+* This config I made with the main idea of making it more minimal than the main branch i have.
